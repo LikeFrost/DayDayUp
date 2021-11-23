@@ -1,4 +1,4 @@
-#### JavaScript 基础
+## JavaScript 基础
 
 - 完整的 JavaScript 实现应包含以下几个部分:
   - 核心（ECMAScript）
