@@ -1,4 +1,4 @@
-## var、let、const 关键字
+## var-let-const 关键字
 - 按照惯例，ECMAScript 标识符使用驼峰大小写形式。
 
 - ES5 增加了严格模式的概念，严格模式是一种不同的 JavaScript 解析和执行模型，所有现代浏览器都支持严格模式。
