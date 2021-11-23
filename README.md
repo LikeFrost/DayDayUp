@@ -2,3 +2,6 @@
 
 开个坑来记录一下小白从 0 到 1 的历程。
 
+### JavaScript
+- [JavaScript 基础](/JavaScript/JavaScript基础.md)
+
