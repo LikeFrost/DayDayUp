@@ -6,3 +6,5 @@
 - [JavaScript 基础](/JavaScript/JavaScript基础.md)
 - [var-let-const 关键字](/JavaScript/var-let-const关键字.md)
 
+- [数据类型](/JavaScript/数据类型.md)
+
