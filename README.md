@@ -16,4 +16,4 @@
 
 - [利用画布进行图像压缩](/微信小程序/利用画布进行图像压缩.md)
 
- 
+- [onLoad 与 onShow](/微信小程序/onLoad 与 onShow.md)
