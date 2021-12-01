@@ -19,7 +19,4 @@
 - [onLoad 与 onShow](/微信小程序/onLoad 与 onShow.md)
 
 - [upData 与 setData ](/微信小程序/upData 与 setData.md)
-
-​    
-
- 
+- 
