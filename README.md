@@ -19,5 +19,5 @@
 - [onLoad 与 onShow](/微信小程序/onLoad与onShow.md)
 
 - [upData 与 setData ](/微信小程序/upData与setData.md)
-- 
+- [单列选择框和自定义多列选择框](/微信小程序/单列选择框和自定义多列选择框.md)
 
