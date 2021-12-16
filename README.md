@@ -33,3 +33,6 @@
 
 - [搭建 hexo 博客并部署到 github](搭建博客/搭建hexo博客并部署到github.md)
 - [Hexo 集成 Gitalk 评论系统](搭建博客/Hexo集成Gitalk评论系统.md)
+
+- [在博客中使用图床](搭建博客/在博客中使用图床.md)
+
