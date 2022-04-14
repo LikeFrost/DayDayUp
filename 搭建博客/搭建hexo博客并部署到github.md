@@ -3,7 +3,7 @@
 #### 建立本地项目
 
 - 新建空文件夹
-- 右键点击 `git bush here` 
+- 右键点击 `git bash here` 
 - 安装 hexo 框架：`npm install -g hexo-cli`
 - 初始化文件夹：`hexo init`
 - 安装依赖：`npm install`
